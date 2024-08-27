@@ -27,3 +27,5 @@ vignettes/*.pdf
 .secrets
 
 data/
+
+rsconnect/shinyapps.io/wsbrc/
